@@ -7,4 +7,5 @@ n = 1
 for c in fruitlist:
     print(str(n) + ".", "{:>7}".format(c))
     n += 1
-#
+
+print("\n\nГОТОВО!")
