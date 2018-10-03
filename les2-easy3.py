@@ -13,4 +13,5 @@ for r in list1:
         list1[n] = r*2
     n += 1
 print(list1)
-#
+
+print("\n\nГОТОВО!")

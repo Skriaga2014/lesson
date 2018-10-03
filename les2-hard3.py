@@ -42,4 +42,5 @@ for t in tower:
         num = t.index(room)+1
 
 print ("Этаж {}, расположение комнаты - {} слева".format(floor, num))
-#
+
+print("\n\nГОТОВО!")
