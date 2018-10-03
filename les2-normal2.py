@@ -26,3 +26,4 @@ mon = mon_str[mon_int.index(date[3:5])]
 yr = date[6:10]
 
 print (day, mon, yr, "года")
+#
